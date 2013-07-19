@@ -1,6 +1,6 @@
 # Konami::Fo
 
-TODO: Write a gem description
+Enter the Konami code, then 'eff off.
 
 ## Installation
 
@@ -17,9 +17,16 @@ Or install it yourself as:
     $ gem install konami-fo
 
 ## Usage
+```
+$ bundle exec pry
 
-TODO: Write usage instructions here
+[1] pry(main)> require "konami/fo"
+=> true
 
+[2] pry(main)> Konami::Fo.new().execute!
+Enter the Konami code!
+Fuck off, You. - Me
+```
 ## Contributing
 
 1. Fork it

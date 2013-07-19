@@ -5,7 +5,7 @@ require "konami/version"
 
 module Konami
   class Fo < PayDirt::Base
-    def initialize(options)
+    def initialize(options = {})
       options = {
         konamio: Konamio::Sequence::Requisition,
         konamio_params: {

@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Konami::VERSION
   spec.authors       = ["Ryan T. Hosford"]
   spec.email         = ["tad.hosford@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{ Enter the Konami code and 'eff off. }
+  spec.summary       = %q{ Enter the Konami code and 'eff off promptly. }
   spec.homepage      = ""
   spec.license       = "MIT"
 
