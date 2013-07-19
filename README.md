@@ -1,4 +1,4 @@
-# Konami::Fo
+## Konami::Fo [![Code Climate](https://codeclimate.com/github/rthbound/konami-fo.png)](https://codeclimate.com/github/rthbound/konami-fo)
 
 Enter the Konami code, then 'eff off.
 
