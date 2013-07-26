@@ -1,6 +1,6 @@
 ## Konami::Fo [![Build Status](https://travis-ci.org/rthbound/konami-fo.png?branch=master)](https://travis-ci.org/rthbound/konami-fo)[![Coverage Status](https://coveralls.io/repos/rthbound/konami-fo/badge.png)](https://coveralls.io/r/rthbound/konami-fo)[![Code Climate](https://codeclimate.com/github/rthbound/konami-fo.png)](https://codeclimate.com/github/rthbound/konami-fo)
 
-Enter the Konami code, then 'eff off.
+Enter the Konami code, then 'eff off, courtesy of FOaaS. You can configure konami-fo to use any of the services available (probably not intuitive yet, updates coming soon)
 
 ## Installation
 
